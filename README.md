@@ -629,11 +629,18 @@ The system can be accessed anytime and anywhere as long as there’s a modern br
 
 ## 4.1 ERD
 
+![ERD diagra](/ERD.drawio.png "ERD Diagram")
 
 ## 4.2 Use cases
+![UseCase diagra](/UseCases.drawio.png "UseCases Diagram")
 
 
 ## 4.3 Sequence Diagrams
+![Seq diagra](/SeqDiagram.drawio.png "Seq Diagram")
+![Seq diagra](/SeqDiagram.drawio1.png "Seq Diagram")
+![Seq diagra](/SeqDiagram.drawio2.png "Seq Diagram")
+![Seq diagra](/SeqDiagram.drawio3.png "Seq Diagram")
+
 
 ## 4.4 Activity Diagram
 ![Activity diagra](/ActivityDiagram.drawio.png "Activity Diagram")
