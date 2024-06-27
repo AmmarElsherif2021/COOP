@@ -6,15 +6,16 @@
 ## Content:
 1. INTRODUCTION  
 1.1 Purpose  
-1.2 Scope 
+1.2 Scope
+    
 1.3 Definitions, Acronyms, and Abbreviations  
-2. GENERAL DESCRIPTION  
+3. GENERAL DESCRIPTION  
 2.1 Product Perspective  
 2.2 Product Functions
 2.3 User Characteristics
 2.4 Operating Environment
 2.5 Assumptions and Dependencies
-3. SPECIFIC REQUIREMENTS 
+4. SPECIFIC REQUIREMENTS 
 3.1 External Interface 	Requirements
 3.1.1 User Interfaces
 3.1.2 Hardware Interfaces
@@ -28,7 +29,7 @@
 3.5.2 Reliability
 3.5.4 Security
 3.5.6 Portability
-4. ANALYSIS MODELS 
+5. ANALYSIS MODELS 
 4.1ERD
 4.2 Use case
 4.3 Sequence Diagrams4.4 Activity Diagram 
