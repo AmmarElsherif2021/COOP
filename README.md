@@ -123,7 +123,7 @@ related to the software are provided.
     apply for an invitation to existing project/s on the system and/or 
     create his project, select the project team members from 
     the pool of other authenticated users, and fully utilize the 
-    features applied for administration provided by <COOP> 
+    features applied for administration provided by COOP 
 
 ### Work in Progress (WIP):
    A term used in task management 
