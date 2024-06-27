@@ -4,35 +4,36 @@
 ## Author: Ammar Elsherif
 
 ## Content:
-1. INTRODUCTION  
-	1.1 Purpose  
+
+1. INTRODUCTION   <br/>
+	1.1 Purpose  <br/> 
 	1.2 Scope <br/>
-	1.3 Definitions, Acronyms, and Abbreviations  
-2. GENERAL DESCRIPTION  
-	2.1 Product Perspective  
-	2.2 Product Functions
-	2.3 User Characteristics
-	2.4 Operating Environment
-	2.5 Assumptions and Dependencies
-3. SPECIFIC REQUIREMENTS 
-	3.1 External Interface Requirements
-		3.1.1 User Interfaces
-		3.1.2 Hardware Interfaces
-		3.1.3 Software Interfaces 
-		3.1.4 Communications Interfaces
-	3.2 Functional Requirements 
-	3.3 Use Cases 
-	3.4 Classes/Objects
-	3.5 Non-Functional Requirements
-		3.5.1 Performance
-		3.5.2 Reliability
-		3.5.4 Security
-		3.5.6 Portability
-4. ANALYSIS MODELS 
-	4.1ERD
-	4.2 Use case
-	4.3 Sequence Diagrams4.4 Activity Diagram 
-	4.5 Deployment Diagrams 
+	1.3 Definitions, Acronyms, and Abbreviations  <br/>
+2. GENERAL DESCRIPTION   <br/>
+	2.1 Product Perspective   <br/>
+	2.2 Product Functions  <br/>
+	2.3 User Characteristics  <br/>
+	2.4 Operating Environment  <br/>
+	2.5 Assumptions and Dependencies  <br/>
+3. SPECIFIC REQUIREMENTS  <br/>
+	3.1 External Interface Requirements  <br/>
+		3.1.1 User Interfaces  <br/>
+		3.1.2 Hardware Interfaces  <br/>
+		3.1.3 Software Interfaces  <br/>
+		3.1.4 Communications Interfaces  <br/>
+	3.2 Functional Requirements  <br/>
+	3.3 Use Cases  <br/>
+	3.4 Classes/Objects  <br/>
+	3.5 Non-Functional Requirements  <br/>
+		3.5.1 Performance  <br/>
+		3.5.2 Reliability  <br/>
+		3.5.4 Security  <br/>
+		3.5.6 Portability  <br/>
+4. ANALYSIS MODELS   <br/>
+	4.1 ERD  <br/>
+	4.2 Use case  <br/>
+	4.3 Sequence Diagrams4.4 Activity Diagram  <br/>
+	4.5 Deployment Diagrams  <br/>
 
 
 
