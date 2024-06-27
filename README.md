@@ -626,6 +626,7 @@ The system can be accessed anytime and anywhere as long as there’s a modern br
 
 
 # 4. ANALYSIS MODELS 
+
 ## 4.1 ERD
 
 
@@ -635,5 +636,7 @@ The system can be accessed anytime and anywhere as long as there’s a modern br
 ## 4.3 Sequence Diagrams
 
 ## 4.4 Activity Diagram
-
+![Activity diagra](/Activity diagram.drawio.png "Activity Diagram")
+![Activity diagra](/Activity diagram.drawio1.png "Activity Diagram")
+![Activity diagra](/Activity diagram.drawio2.png "Activity Diagram")
 
