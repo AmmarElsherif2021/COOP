@@ -448,7 +448,7 @@ Project cumulative chart interface:
 
 ## 3.2 Functional Requirements
 
-### 3.2.1 <Create project> 
+### 3.2.1 Create project 
 
 Administrator users can create a project, set a name, description, and 
 purpose, select the project's team members from the pool of  
@@ -458,16 +458,16 @@ manufacturing process including the 3 main columns on the Kanban board
 [requested, in progress, done]. It is a must to set WIP limitations in the 
 creation process. 
 
-### 3.2.2 <create story card> 
+### 3.2.2 Create story card
 Admin users can create a card that represents a single story of a feature or a 
 single requirement. it contains the requirement description, date of 
-creation, author, date of last modification. The story card is ready then to 
+creation, author, and date of last modification. The story card is ready then to 
 inherit one or more task cards related to the requirement assigned in the 
-story card. Also selecting a specific color for the is guaranteed to divide 
+story card. Also selecting a specific color is guaranteed to divide 
 different requirements and their related tasks into lanes which helps in 
 organizing parallel work processing and managing. 
 
-### 3.2.3<build task> 
+### 3.2.3 Build task
  It occurs when the admin user drags a single story card from 
 one column into another, the < Story Card> inherits a . contains a Reporting text 
 box for managers and workers to use in reporting and feedback and drive 
