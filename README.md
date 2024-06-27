@@ -484,29 +484,29 @@ note: setting a WIP limit for individual tasks can lead to suboptimal results if
 properly. It can lead to delays in completing tasks and may not be effective in identifying 
 bottlenecks 
 
-### 3.2.4 <delete card>
+### 3.2.4 Delete card
  This functionality is only available for the admin of the project 
 either by deleting a single or by deleting multiple related tasks by deleting the source . 
 
-### 3.2.5 <create alarm>
+### 3.2.5 Create Alarm
 This functionality is for all users but is specified according to their 
 different roles for example: when a user administrates some project he/she gets alarmed before the 
 half and the last quarter of duration is passed. The same occurs for the user whose role is a 
 worker (or reviewer) he/she gets alarms of tasks queued that he/she is responsible for. 
 
-### 3.2.6<get notification>
+### 3.2.6 Get a notification
  All kinds of users should be notified of every action/update 
 occurs in the project all according to their roles.
 
-### 3.2.7<send message>
+### 3.2.7 Send message
  All kinds of users should be able to send/receive messages in the 
 chat space of the project. 
 
-### 3.2.8 <get task queue>
+### 3.2.8 Get task queue
  If the user is included in a project as a worker (or indifferent 
 projects) then he/she gets a scheduled queue of tasks prioritized by the closer due date. 
 
-### 3.2.9 <view performance>
+### 3.2.9 View performance
 All kinds of users involved in the project should be able to 
 view a cumulative chart of the progress performance. 
 
