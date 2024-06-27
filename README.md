@@ -6,7 +6,7 @@
 ## Content:
 1. INTRODUCTION  
 	1.1 Purpose  
-	1.2 Scope 
+	1.2 Scope <br/>
 	1.3 Definitions, Acronyms, and Abbreviations  
 2. GENERAL DESCRIPTION  
 	2.1 Product Perspective  
