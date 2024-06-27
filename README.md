@@ -428,20 +428,22 @@ and accessed
 
 ### 3.1.2 User Interfaces 
 Login Interface: 
+![UI](/proj0.png "UI")
+
 Profile interface 
+![UI](/proj1.png "UI")
+
 Project board interface:
-
-
-
-
-
+![UI](/proj2.png "UI")
 
 
 Task Card Pop-up Interface:
+![UI](/proj2-Copy.png "UI")
 
 
 Project cumulative chart interface:
- 
+ ![UI](/proj22222.png "UI")
+
 
 
 ## 3.2 Functional Requirements
@@ -637,9 +639,9 @@ The system can be accessed anytime and anywhere as long as there’s a modern br
 
 ## 4.3 Sequence Diagrams
 ![Seq diagra](/SeqDiagram.drawio.png "Seq Diagram")
-![Seq diagra](/SeqDiagram.drawio1.png "Seq Diagram")
-![Seq diagra](/SeqDiagram.drawio2.png "Seq Diagram")
-![Seq diagra](/SeqDiagram.drawio3.png "Seq Diagram")
+![Seq diagra](/SeqDiagram2.drawio.png "Seq Diagram")
+![Seq diagra](/SeqDiagram3.drawio.png "Seq Diagram")
+![Seq diagra](/SeqDiagram4.drawio.png "Seq Diagram")
 
 
 ## 4.4 Activity Diagram
