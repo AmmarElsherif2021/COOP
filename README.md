@@ -523,7 +523,7 @@ view a cumulative chart of the progress performance.
   
 ## 3.4 Classes/Objects 
 
-### 3.4.1 <user> 
+### 3.4.1 User 
 #### 3.4.1.1 Attributes 
   • Name 
   • ID 
@@ -554,7 +554,7 @@ view a cumulative chart of the progress performance.
  Get_queue(self.id) 
  Get_alarm()
  
-### 3.4.2 <project> 
+### 3.4.2 Project 
 #### 3.4.2.1 Attributes: 
  Pid Title 
  Description 
@@ -568,7 +568,7 @@ view a cumulative chart of the progress performance.
  Get_project_info() 
  get_permission() 
  notify_user(user.id) 
-### 3.4.3 <Story card> 
+### 3.4.3 Story Card
 #### 3.4.3.1 Attributes 
  Cid 
  Title 
@@ -603,10 +603,10 @@ view a cumulative chart of the progress performance.
 
 ## 3.5 Non-Functional Requirements 
 ### 3.5.1 Performance 
-• Any operation that is expected to take 0.1s or less shall not post any wait indicator. 
-• Any operation that is expected to take more than 0.1s, but less than 1s, shall post the system wait 
+• Any operation expected to take 0.1s or less shall not post any wait indicator. 
+• Any operation expected to take more than 0.1s, but less than 1s, shall post the system wait 
 cursor. 
-• Any operation that is expected to take 1s or more shall post a progress bar, count-down timer, or 
+• Any operation expected to take 1s or more shall post a progress bar, count-down timer, or 
 another system-appropriate wait/progress indicator. 
 • System downtime may not exceed 1 minute per day. 
 • 95% of transactions shall be processed in less than a second. 
@@ -621,7 +621,7 @@ letters, and numbers, but also it can contain special characters.
 anybody can access it then they won’t be able to read or use it as it is encrypted. 
 
 ### 3.5.4 Portability 
-The system can be accessed anytime and anywhere as long as there’s a modern browser that supports JavaScript the proper internet connection and the minimal hardware requirements.
+The system can be accessed anytime and anywhere as long as a modern browser supports JavaScript, the proper internet connection, and the minimal hardware requirements.
 
 ## 3.6 Logical Database Requirements 
 • The system can store the following data: X 
